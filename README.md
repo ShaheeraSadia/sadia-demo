@@ -1,4 +1,4 @@
 # sadia-demo
 This is my first GitHub
 <br>
-Author - Shaheera Sadia
+Author - Shaheera sadia
